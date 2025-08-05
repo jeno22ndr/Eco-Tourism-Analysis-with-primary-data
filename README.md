@@ -32,7 +32,7 @@
 
 This project delves into primary survey data collected on eco-tourism. The goal is to apply data analysis techniques to understand the key factors that influence travelers' decisions, their awareness of sustainability, and their on-trip behaviors. By transforming raw survey responses into actionable insights, this analysis aims to provide a clearer picture of the modern eco-tourist and offer data-driven recommendations for promoting responsible travel.
 
-![Key Visualization from Analysis](./key_visualisation.png)
+![Key Visualization from Analysis](./key visualisation.png)
 
 ## Objective
 
